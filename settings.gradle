@@ -1,0 +1,2 @@
+rootProject.name = "Workmanager"
+include ':app'
